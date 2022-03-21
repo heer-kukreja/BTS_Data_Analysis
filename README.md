@@ -9,6 +9,7 @@ It's a visualization technique for understanding and determining patterns and ev
 # Sample Visualization
 
 Word Cloud embedded in BTS Logo
+
 ![download](https://user-images.githubusercontent.com/91866976/159209974-d73e7a58-3158-4473-96e9-ab7587cc8bb6.png)
 
 # Technical Specification
